@@ -1,0 +1,16 @@
+{
+  "name": "video-criando-modelo-dominio-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "test:w": "tap --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^16.3.2"
+  }
+}
